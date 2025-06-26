@@ -1,0 +1,6 @@
+The purpose of Assignment 2 part 1 is to model a linear regression using R and Python within Jupyter Lab to examine similarities in the coding process of both languages. While the exact code is different, the process for each language was the same.
+The first step was creating a dataset from an external csv file. R can read the dataset directly, whereas Python requires the "pandas" module to create and utilize the dataset.
+To visualize the data, a scatterplot was created for the data. Python required another imported module to create the scatterplot. From there, a linear module was created using the original dataset, with Python requiring another module to run it.
+The regression line was plotted with the proper title and axis labels before the notebooks were exported as HTML files.
+
+In Part 2, we tested our code from the R and Python notebooks by exporting them as executable scripts for the jupyterlab terminal to run. When tested, this provided outputs for regression plots of the regression data from both python and R. These photos were then saved to the Assignment_2 folder before everything was exported to a GitHub repository.
