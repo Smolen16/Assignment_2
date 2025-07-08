@@ -19,4 +19,3 @@ pip install -r requirements.txt
 jupyter lab
 
 Then find the assignment3 folder within the "bash_tutorial" directory.
-
